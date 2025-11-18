@@ -2,7 +2,7 @@
 
 ### A passionate low-level developer and trains lover 🚄
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zumtak&label=Profile views&color=0e75b6&style=flat" alt="Zumtak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zumtak&label=Profile%20Views&color=yellow&style=flat" alt="Zumtak" /> </p>
 
 - 🌱 I'm currently learning **embedded development & Rust**
 
